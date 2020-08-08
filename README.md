@@ -10,9 +10,9 @@ docker-compose up -d
 
 Open the following links:
 
-API: [http://localhost:90/query](http://localhost:90/query)
+API: [http://localhost/query](http://localhost/query)
 
-DB: [http://localhost:8083](http://localhost:8083)
+DB: [http://localhost:8080](http://localhost:8080)
 
 In Adminer use `server=mysql`, `user=calitb`, `pass=12345`
 

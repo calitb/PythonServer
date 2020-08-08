@@ -1,4 +1,4 @@
-FROM jsurf/rpi-mariadb
+FROM mysql:8.0.21
 
 LABEL maintainer="Carlos Thurber B."
 
